@@ -7,17 +7,17 @@
 
                 <div class="swiper-slide relative">
                     <img src="./images/sliderimg1.jpg" class="w-full h-full object-contain absolute inset-0">
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/10 via-transparent to-black/10"></div>
                 </div>
 
                 <div class="swiper-slide relative">
                     <img src="./images/sliderimg2.jpg" class="w-full h-full object-contain absolute inset-0">
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/10 via-transparent to-black/10"></div>
                 </div>
 
                 <div class="swiper-slide relative">
                     <img src="./images/sliderimg3.jpg" class="w-full h-full object-contain absolute inset-0">
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/10 via-transparent to-black/10"></div>
                 </div>
 
             </div>

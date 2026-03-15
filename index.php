@@ -23,7 +23,8 @@
     include 'components/Slider.php';
     include 'components/Overview.php';
     include 'components/Testimonials.php';
-    include 'components/CourseOffered.php'
+    include 'components/CourseOffered.php';
+    include 'components/ExploreCampus.php';
     ?>
     <script>
         const swiper = new Swiper('.swiper', {
@@ -50,6 +51,8 @@
                 el: '.swiper-scrollbar',
             },
         });
+
+        // fetch('https://examcell.page.gd/notification_board.php').then(res=>res.text()).then(data=>console.log(data))
     </script>
 </body>
 
