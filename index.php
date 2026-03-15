@@ -21,13 +21,19 @@
     include 'components/NavBar.php';
     // include 'components/NotificationBar.php';
     include 'components/Slider.php';
+    include 'components/Overview.php';
+    include 'components/Testimonials.php';
+    include 'components/CourseOffered.php'
     ?>
     <script>
         const swiper = new Swiper('.swiper', {
             // Optional parameters
-            direction: 'vertical',
+            direction: 'horizontal',
             loop: true,
-
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false
+            },
             // If we need pagination
             pagination: {
                 el: '.swiper-pagination',
